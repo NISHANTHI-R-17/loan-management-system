@@ -15,6 +15,7 @@ loan-management-frontend/dist/
 .env
 .env.*
 !.env.example
+loan-management/src/main/resources/application.properties
 
 # Logs
 *.log
