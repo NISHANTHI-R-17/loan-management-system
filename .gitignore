@@ -1,0 +1,24 @@
+# Spring Boot
+loan-management/target/
+loan-management/*.class
+
+# React
+loan-management-frontend/node_modules/
+loan-management-frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
